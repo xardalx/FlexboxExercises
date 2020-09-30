@@ -1,0 +1,11 @@
+/* Use display, flex-wrap, justify-content and align-content to solve this */
+
+#e6 .container {
+    height: 500px;
+    width: 1000px;
+}
+
+#e6 .item {
+    height: 100px;
+    width: 400px;
+}

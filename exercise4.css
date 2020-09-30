@@ -1,0 +1,29 @@
+/* Use display, justify-content and align-items to solve this */
+
+#e4 .container {
+    height: 300px;
+}
+
+#e4 .item {
+    width: 14%; 
+}
+
+#e4 .i1 {
+    height: 40%; 
+}
+
+#e4 .i2 {
+    height: 50%;
+}
+
+#e4 .i3 {
+    height: 60%;
+}
+
+#e4 .i4 {
+    height: 20%;
+}
+
+#e4 .i5 {
+    height: 30%; 
+}

@@ -1,0 +1,11 @@
+/* Use display, justify-content, align-items and align-content to solve this */
+
+#e8 .container {
+    height: 200px;
+    width: 200px;
+}
+
+#e8 .item {
+    height: 60px;
+    width: 60px;
+}

@@ -1,0 +1,21 @@
+/* Use display and flex-direction to solve this */
+
+#e7 .container {
+    height: 200px;
+}   
+
+#e7 .item {
+    height: auto;
+}
+
+#e7 .i1 {
+    flex-grow: 1;
+}
+
+#e7 .i2 {
+    flex-grow: 2;
+}
+
+#e7 .i3 {
+    flex-grow: 3;
+}

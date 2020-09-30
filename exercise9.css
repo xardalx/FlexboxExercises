@@ -1,0 +1,16 @@
+/* Use display, justify-content, align-items, align-content and flex-wrap to solve this */
+
+#e9 .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 200px;
+}
+
+#e9 .item {
+    height: 60px;
+    width: 60px;
+}

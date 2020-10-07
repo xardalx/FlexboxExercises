@@ -1,10 +1,13 @@
 /* Use display and flex-grow to solve this */
 
 #e2 .container {
+    display: flex;
 }
 
 #e2 .item {
+    flex-grow: 1;
 }
 
 #e2 .i3 {
+    flex-grow: 2;
 }

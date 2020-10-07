@@ -1,9 +1,19 @@
 /* Use display, flex-wrap, flex and justify-content to solve this */
 
 #e3 .container {
-    
+    /* #region Solution */
+    display: flex;
+    flex-wrap: wrap;
+    /* #endregion */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 #e3 .item {
-    
+    /* #region Solution */
+    flex: 0 33%;
+    /* #endregion */
+    flex: 0 33%;
+    flex-basis: 33%;
 }

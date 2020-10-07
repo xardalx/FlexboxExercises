@@ -1,6 +1,10 @@
 /* Use display and flex-direction to solve this */
 
 #e7 .container {
+    display: flex;
+
+    flex-direction: column;
+
     height: 200px;
 }   
 

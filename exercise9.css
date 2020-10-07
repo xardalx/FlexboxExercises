@@ -1,6 +1,12 @@
 /* Use display, justify-content, align-items, align-content and flex-wrap to solve this */
 
 #e9 .container {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    align-content: center;
+
     height: 200px;
     width: 200px;
 }

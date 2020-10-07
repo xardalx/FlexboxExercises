@@ -1,8 +1,12 @@
 /* Use display, flex-wrap, justify-content and align-content to solve this */
 
 #e5 .container {
+    display: flex;
     height: 500px;
     width: 1000px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-evenly;
 }
 
 #e5 .item {

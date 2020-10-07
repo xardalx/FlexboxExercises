@@ -1,8 +1,11 @@
 /* Use display, flex-wrap, justify-content and align-content to solve this */
 
 #e6 .container {
+    display: flex;
     height: 500px;
     width: 1000px;
+    justify-content: space-between;
+    
 }
 
 #e6 .item {

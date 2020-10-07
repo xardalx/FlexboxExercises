@@ -1,7 +1,17 @@
 /* Use display and flex-grow properties to solve this */
 
 #e1 .container {
+    display: flex;
 }
 
 #e1 .item {
+    flex-grow: 1;
+    
+}
+
+#e4 .container { 
+    justify-content: space-between;
+    align-items: flex-end;
+    
+
 }
